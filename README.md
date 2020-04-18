@@ -11,5 +11,5 @@ The below image shows the representation of some alphabets.
 DATASET SOURCE:
 https://www.kaggle.com/datamunge/sign-language-mnist
 
-This dataset contains greyscale images of signs
-This model has an accuracy of 96% on the test dataset
+This dataset contains greyscale images of signs.
+
