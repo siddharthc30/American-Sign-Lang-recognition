@@ -8,8 +8,5 @@ The below image shows the representation of some alphabets.
 
 ![amer_sign2](https://user-images.githubusercontent.com/53928899/79650802-d41ae580-81ce-11ea-801d-474a933b0a66.png)
 
-DATASET SOURCE:
-https://www.kaggle.com/datamunge/sign-language-mnist
-
-This dataset contains greyscale images of signs.
+DATSET is collected using Microsoft Kinect camera and sensor. Now, the images also contain some depth information.
 
