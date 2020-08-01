@@ -10,3 +10,4 @@ The below image shows the representation of some alphabets.
 
 DATSET is collected using Microsoft Kinect camera and sensor. Now, the images also contain some depth information.
 
+P.S: Cannot push the saved model as it is exceeding 100MB.
